@@ -12,8 +12,8 @@ const clientKey=process.env.REACT_APP_API_CLIENT_KEY;
 const clientSecret=process.env.REACT_APP_SECRET_KEY;
 
 export default function App(){
-    const [accessToken, setAccessToken] = useState(null);
-    const [results, setResults] = useState(null);
+    const [accessToken, setAccessToken] = useState([]);
+    const [results, setResults] = useState([]);
 
     useEffect(() => {
         const fetchAccessToken = async () => {
@@ -34,22 +34,22 @@ export default function App(){
 
   
     useEffect(() => {
-
         if (accessToken === null) {
             console.log("Token is null");
         } else {
-        const fetchAnimals = async () => {
-            const petFinderRequest = await axios.get(
-                "https://api.petfinder.com/v2/animals?status=adoptable&location=Edmonton",
-                {
-                    headers: {
-                        Authorization: `Bearer ${accessToken}`
-                    }
-                });
-            setResults(petFinderRequest.data);   
-            //console.log(petFinderRequest.data); 
-        }
-    fetchAnimals();
+
+            const fetchAnimals = async () => {
+                const petFinderRequest = await axios.get(
+                    "https://api.petfinder.com/v2/animals",
+                    {
+                        headers: {
+                            Authorization: `Bearer ${accessToken}`
+                        }
+                    });
+                setResults(petFinderRequest.data);   
+                //console.log(petFinderRequest.data); 
+            }
+            fetchAnimals();
     }}, [accessToken])
 
     return(

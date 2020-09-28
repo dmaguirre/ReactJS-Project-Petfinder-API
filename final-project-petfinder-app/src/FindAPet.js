@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "./Header";
 
-export default function FindAPet(results) {
+export default function FindAPet(props) {
     return (
         <div className="header">
         <header>
@@ -10,9 +10,11 @@ export default function FindAPet(results) {
         <main className="main">
                 <div>FIND A PET</div>
                 <div>
-                    <li></li>
+                    {props.results.animals.map((animal) => (
+                        <li key={animal.id}>{animal.id}</li>
+                    ))}
                 </div>
-        </main>    
+        </main>                 
     </div>
     )
 }
