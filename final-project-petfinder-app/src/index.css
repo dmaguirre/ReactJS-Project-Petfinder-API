@@ -72,3 +72,7 @@ a.active-tab:hover{
     width: fit-content;
     font-family: 'Lucida Grande';
 }
+
+.animal-list{
+    text-align: left;
+}

@@ -7,6 +7,7 @@ import Adopt from "./Adopt";
 import About from "./About";
 import Contact from "./Contact";
 import axios from 'axios';
+import { getDataFromFile } from './GetData';
 
 const clientKey=process.env.REACT_APP_API_CLIENT_KEY;
 const clientSecret=process.env.REACT_APP_SECRET_KEY;
@@ -35,20 +36,12 @@ export default function App(){
   
     useEffect(() => {
         if (accessToken === null) {
-            console.log("Token is null");
+            return null;
         } else {
-
             const fetchAnimals = async () => {
-                const petFinderRequest = await axios.get(
-                    "https://api.petfinder.com/v2/animals",
-                    {
-                        headers: {
-                            Authorization: `Bearer ${accessToken}`
-                        }
-                    });
-                setResults(petFinderRequest.data);   
-                //console.log(petFinderRequest.data); 
-            }
+                const data = await getDataFromFile(accessToken);
+                setResults(data);
+               }
             fetchAnimals();
     }}, [accessToken])
 
@@ -69,3 +62,20 @@ export default function App(){
         </BrowserRouter>
     )  
 }
+
+
+/*
+ const petFinderRequest = await axios.get(
+                    "https://api.petfinder.com/v2/animals?location=Canada",
+                    {
+                        headers: {
+                            Authorization: `Bearer ${accessToken}`
+                        }
+                    });
+                setResults(petFinderRequest.data);   
+                //console.log(petFinderRequest.data); 
+
+
+
+                animals.filter
+*/

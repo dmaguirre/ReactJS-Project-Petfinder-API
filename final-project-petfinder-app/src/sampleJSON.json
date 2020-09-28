@@ -1,0 +1,1166 @@
+{
+    "animals": [
+        {
+            "id": 49235590,
+            "organization_id": "TX947",
+            "url": "https:\/\/www.petfinder.com\/dog\/einstein-49235590\/tx\/temple\/apac-association-for-a-pet-adoption-center-tx947\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Shih Tzu",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Loving",
+                "Playful"
+            ],
+            "name": "Einstein",
+            "description": "Einstein is a Shih Tzu mix who is 9 years and 10 months old, but acts like a 5 year...",
+            "organization_animal_id": "Nancy",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/?bust=1601148459\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/?bust=1601148459\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/?bust=1601148459\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/?bust=1601148459"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/1\/?bust=1601148248\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/1\/?bust=1601148248\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/1\/?bust=1601148248\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/1\/?bust=1601148248"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/2\/?bust=1601148271\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/2\/?bust=1601148271\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/2\/?bust=1601148271\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/2\/?bust=1601148271"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/4\/?bust=1601148312\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/4\/?bust=1601148312\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/4\/?bust=1601148312\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/4\/?bust=1601148312"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/5\/?bust=1601148331\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/5\/?bust=1601148331\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/5\/?bust=1601148331\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/5\/?bust=1601148331"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/crop\/?bust=1601148459\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/crop\/?bust=1601148459\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/crop\/?bust=1601148459\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235590\/3\/crop\/?bust=1601148459"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:51:43+0000",
+            "published_at": "2020-09-26T19:51:43+0000",
+            "distance": null,
+            "contact": {
+                "email": "myhappytail@yahoo.com",
+                "phone": "(254) 541-1461",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Temple",
+                    "state": "TX",
+                    "postcode": "76503",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235590"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tx947"
+                }
+            }
+        },
+        {
+            "id": 49235925,
+            "organization_id": "MS17",
+            "url": "https:\/\/www.petfinder.com\/dog\/rex-49235925\/ms\/hattiesburg\/southern-pines-animal-shelter-ms17\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": "Hound",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Positive"
+            ],
+            "name": "Rex",
+            "description": null,
+            "organization_animal_id": "SOPA-A-96607",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:50:16+0000",
+            "published_at": "2020-09-26T19:50:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@southernpinesanimalshelter.org",
+                "phone": "(601) 544-6632",
+                "address": {
+                    "address1": "1901 North 31st Avenue",
+                    "address2": null,
+                    "city": "Hattiesburg",
+                    "state": "MS",
+                    "postcode": "39401",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235925"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ms17"
+                }
+            }
+        },
+        {
+            "id": 49235927,
+            "organization_id": "VA176",
+            "url": "https:\/\/www.petfinder.com\/dog\/willoughby-49235927\/va\/lynchburg\/lynchburg-humane-society-va176\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Poodle",
+                "secondary": "Golden Retriever",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": "Red \/ Chestnut \/ Orange",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Willoughby",
+            "description": null,
+            "organization_animal_id": "LNHS-A-59072",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:50:16+0000",
+            "published_at": "2020-09-26T19:50:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "contact@lynchburghumane.org",
+                "phone": "(434) 448-0088",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Lynchburg",
+                    "state": "VA",
+                    "postcode": "24502",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235927"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/va176"
+                }
+            }
+        },
+        {
+            "id": 49235861,
+            "organization_id": "LA199",
+            "url": "https:\/\/www.petfinder.com\/dog\/leo-49235861\/la\/walker\/rescue-rehome-repeat-of-south-louisiana-la199\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Beagle",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tricolor (Brown, Black, \u0026 White)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "playful",
+                "super sweet",
+                "happy"
+            ],
+            "name": "Leo",
+            "description": "Leo is a 1-2 yr old male beagle.  He has never met a person he doesn\u0026#039;t like.  He is a...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/?bust=1601149515\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/?bust=1601149515\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/?bust=1601149515\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/?bust=1601149515"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/1\/?bust=1601149491\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/1\/?bust=1601149491\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/1\/?bust=1601149491\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/1\/?bust=1601149491"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/crop\/?bust=1601149515\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/crop\/?bust=1601149515\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/crop\/?bust=1601149515\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235861\/2\/crop\/?bust=1601149515"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:49:34+0000",
+            "published_at": "2020-09-26T19:49:34+0000",
+            "distance": null,
+            "contact": {
+                "email": "RRRofSouthLa@AOL.COM",
+                "phone": "(225) 788-6940",
+                "address": {
+                    "address1": "P.O. Box 500",
+                    "address2": null,
+                    "city": "Walker",
+                    "state": "LA",
+                    "postcode": "70785",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235861"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/la199"
+                }
+            }
+        },
+        {
+            "id": 49235870,
+            "organization_id": "NC1133",
+            "url": "https:\/\/www.petfinder.com\/dog\/coco-49235870\/nc\/gastonia\/animal-league-of-gaston-county-dba-the-gaston-low-cost-spay-neuter-clinic-nc1133\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": "Pug",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": false,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Coco",
+            "description": "Coco is an 11 year old male chihuahua\/pug mix.  He would love to find a home with a senior such...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235870\/1\/?bust=1601149587"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:48:58+0000",
+            "published_at": "2020-09-26T19:48:58+0000",
+            "distance": null,
+            "contact": {
+                "email": "NEFoltz@yahoo.com",
+                "phone": "(704) 616-4904",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gastonia",
+                    "state": "NC",
+                    "postcode": "28052",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235870"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/nc1133"
+                }
+            }
+        },
+        {
+            "id": 49235644,
+            "organization_id": "WA262",
+            "url": "https:\/\/www.petfinder.com\/dog\/freida-49235644\/wa\/port-townsend\/the-humane-society-of-jefferson-county-wa-wa262\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Siberian Husky",
+                "secondary": "Akita",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Red \/ Chestnut \/ Orange",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": false
+            },
+            "tags": [],
+            "name": "Freida",
+            "description": "Hi, my name is Freida!  I am a young girl, approximately 2 years old, who arrived here from another shelter...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/2\/?bust=1601148582\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/2\/?bust=1601148582\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/2\/?bust=1601148582\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/2\/?bust=1601148582"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/3\/?bust=1601148589\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/3\/?bust=1601148589\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/3\/?bust=1601148589\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/3\/?bust=1601148589"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/4\/?bust=1601148611\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/4\/?bust=1601148611\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/4\/?bust=1601148611\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/4\/?bust=1601148611"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235644\/1\/?bust=1601148572"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:48:45+0000",
+            "published_at": "2020-09-26T19:48:45+0000",
+            "distance": null,
+            "contact": {
+                "email": "shelter@hsjcwa.org",
+                "phone": "(360) 385-3292",
+                "address": {
+                    "address1": "112 Critter Lane",
+                    "address2": null,
+                    "city": "Port Townsend",
+                    "state": "WA",
+                    "postcode": "98368",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235644"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/wa262"
+                }
+            }
+        },
+        {
+            "id": 49235896,
+            "organization_id": "CA440",
+            "url": "https:\/\/www.petfinder.com\/dog\/brittany-49235896\/ca\/novato\/marin-humane-society-ca440\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Brittany",
+            "description": "Brittany is a bit of a fireball! She is ready to run, run, run! She pulls hard on leash and...",
+            "organization_animal_id": "253634",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:33+0000",
+            "published_at": "2020-09-26T19:46:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@marinhumanesociety.org",
+                "phone": "415 506-6225 ",
+                "address": {
+                    "address1": "171 Bel Marin Keys Blvd",
+                    "address2": null,
+                    "city": "Novato",
+                    "state": "CA",
+                    "postcode": "94949",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235896"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca440"
+                }
+            }
+        },
+        {
+            "id": 49235902,
+            "organization_id": "CA440",
+            "url": "https:\/\/www.petfinder.com\/dog\/scruffy-49235902\/ca\/novato\/marin-humane-society-ca440\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Scruffy",
+            "description": "Scruffy is adorable for a reason - he\u0026amp;#39;s a typical bossy Terrier with a desire to control the world. Scruffy...",
+            "organization_animal_id": "253632",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:33+0000",
+            "published_at": "2020-09-26T19:46:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@marinhumanesociety.org",
+                "phone": "415 506-6225 ",
+                "address": {
+                    "address1": "171 Bel Marin Keys Blvd",
+                    "address2": null,
+                    "city": "Novato",
+                    "state": "CA",
+                    "postcode": "94949",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235902"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca440"
+                }
+            }
+        },
+        {
+            "id": 49235907,
+            "organization_id": "CA440",
+            "url": "https:\/\/www.petfinder.com\/dog\/nala-49235907\/ca\/novato\/marin-humane-society-ca440\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nala",
+            "description": "Nala! She is a sensitive and sweet girl! So far she may be just about perfect. She is shy at...",
+            "organization_animal_id": "253633",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:33+0000",
+            "published_at": "2020-09-26T19:46:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@marinhumanesociety.org",
+                "phone": "415 506-6225 ",
+                "address": {
+                    "address1": "171 Bel Marin Keys Blvd",
+                    "address2": null,
+                    "city": "Novato",
+                    "state": "CA",
+                    "postcode": "94949",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235907"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca440"
+                }
+            }
+        },
+        {
+            "id": 49235912,
+            "organization_id": "CA440",
+            "url": "https:\/\/www.petfinder.com\/dog\/albert-49235912\/ca\/novato\/marin-humane-society-ca440\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": "Shih Tzu",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Albert",
+            "description": "We\u0026amp;#39;re guessing Albert is about 1 year old and some adorable mix of maybe Shi Tzu and Terrier. He is...",
+            "organization_animal_id": "253465",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:33+0000",
+            "published_at": "2020-09-26T19:46:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@marinhumanesociety.org",
+                "phone": "415 506-6225 ",
+                "address": {
+                    "address1": "171 Bel Marin Keys Blvd",
+                    "address2": null,
+                    "city": "Novato",
+                    "state": "CA",
+                    "postcode": "94949",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235912"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca440"
+                }
+            }
+        },
+        {
+            "id": 49235862,
+            "organization_id": "CA710",
+            "url": "https:\/\/www.petfinder.com\/dog\/ukcle-49235862\/ca\/bell-gardens\/miracle-dog-rescue-ca710\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Shepherd",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "UKCLE",
+            "description": "UKCLE: Male\/ Malinois Shepherd Mix\/ 17 pounds 4.5 months old\n \nVaccinated, de-wormed and neutered\n \n Meet Ukcle! This little puppy is...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/1\/?bust=1601149532\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/1\/?bust=1601149532\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/1\/?bust=1601149532\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/1\/?bust=1601149532"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/2\/?bust=1601149535\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/2\/?bust=1601149535\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/2\/?bust=1601149535\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/2\/?bust=1601149535"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/4\/?bust=1601149545\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/4\/?bust=1601149545\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/4\/?bust=1601149545\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/4\/?bust=1601149545"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235862\/3\/?bust=1601149538"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:31+0000",
+            "published_at": "2020-09-26T19:46:31+0000",
+            "distance": null,
+            "contact": {
+                "email": "miracledogrescue@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Bell Gardens",
+                    "state": "CA",
+                    "postcode": "90201",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235862"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca710"
+                }
+            }
+        },
+        {
+            "id": 49235888,
+            "organization_id": "CA912",
+            "url": "https:\/\/www.petfinder.com\/dog\/lexi-49235888\/ca\/milpitas\/humane-society-silicon-valley-ca912\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Lexi",
+            "description": "A\nWhat should your foster\u0026amp;#39;s bio say?\nHi! I\u0026amp;#39;m Lexi! I\u0026amp;#39;m a small, fun-loving, playful pup and do my best...",
+            "organization_animal_id": "181369",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:46:27+0000",
+            "published_at": "2020-09-26T19:46:27+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@hssv.org",
+                "phone": "(408) 262-2133",
+                "address": {
+                    "address1": "901 Ames Ave.",
+                    "address2": null,
+                    "city": "Milpitas",
+                    "state": "CA",
+                    "postcode": "95035",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235888"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca912"
+                }
+            }
+        },
+        {
+            "id": 49235877,
+            "organization_id": "CA697",
+            "url": "https:\/\/www.petfinder.com\/dog\/lance-49235877\/ca\/santa-rosa\/humane-society-of-sonoma-county-santa-rosa-ca697\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Siberian Husky",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Lance",
+            "description": "Sir Lance is the Husky of your dreams! He breaks all the stereotypes of a wild and crazy Husky. This...",
+            "organization_animal_id": "23998",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:45:36+0000",
+            "published_at": "2020-09-26T19:45:36+0000",
+            "distance": null,
+            "contact": {
+                "email": "mdallas@humanesocietysoco.org",
+                "phone": "(707) 542-0882",
+                "address": {
+                    "address1": "5345 Hwy 12",
+                    "address2": null,
+                    "city": "Santa Rosa",
+                    "state": "CA",
+                    "postcode": "95401",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235877"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca697"
+                }
+            }
+        },
+        {
+            "id": 49235866,
+            "organization_id": "TX79",
+            "url": "https:\/\/www.petfinder.com\/dog\/kilo-49235866\/tx\/denton\/city-of-denton-animal-services-tx79\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Bicolor",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "KILO",
+            "description": "KILO\n89736\n9-12 MONTHS\nAVAILABLE 9\/29\/2020\n\nServices included with the $60 adoption fee:\nSpay or neuter, surgery related pain medications,...",
+            "organization_animal_id": "89736",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:45:25+0000",
+            "published_at": "2020-09-26T19:45:25+0000",
+            "distance": null,
+            "contact": {
+                "email": "Animal.Services@cityofdenton.com",
+                "phone": "(940) 349-7594",
+                "address": {
+                    "address1": "3717 N Elm Street",
+                    "address2": null,
+                    "city": "Denton",
+                    "state": "TX",
+                    "postcode": "76205",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235866"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tx79"
+                }
+            }
+        },
+        {
+            "id": 49235875,
+            "organization_id": "AL52",
+            "url": "https:\/\/www.petfinder.com\/dog\/clover-49235875\/al\/tuscaloosa\/tuscaloosa-metro-animal-shelter-al52\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": "Poodle",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Clover",
+            "description": null,
+            "organization_animal_id": "TUSC-A-9736",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2020-09-26T19:45:15+0000",
+            "published_at": "2020-09-26T19:45:15+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoption@metroanimalshelter.org",
+                "phone": "(205) 752-9101",
+                "address": {
+                    "address1": "3140  35th Street",
+                    "address2": null,
+                    "city": "Tuscaloosa",
+                    "state": "AL",
+                    "postcode": "35401",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/49235875"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/al52"
+                }
+            }
+        },
+        {
+            "id": 49235874,
+            "organization_id": "AL52",
+            "url": "https:\/\/www.petfinder.com\/dog\/tusc-stray-tu5832-49235874\/al\/tuscaloosa\/tuscaloosa-metro-animal-shelter-al52\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary":"Labrador Retriever","mixed":true,"unknown":false},"colors":{"primary":"Black","secondary":"White \/ Cream","tertiary":null},"age":"Adult","gender":"Male","size":"Medium","coat":null,"attributes":{"spayed_neutered":false,"house_trained":false,"declawed":null,"special_needs":false,"shots_current":true},"environment":{"children":null,"dogs":null,"cats":null},"tags":["Early Bird Ready"],"name":"TUSC-Stray-tu5832","description":null,"organization_animal_id":"TUSC-A-9735","photos":[],"primary_photo_cropped":null,"videos":[],"status":"adoptable","status_changed_at":"2020-09-26T19: 45: 14+0000","published_at":"2020-09-26T19: 45: 14+0000","distance":null,"contact":{"email":"adoption@metroanimalshelter.org","phone":"(205) 752-9101","address":{"address1":"3140  35th Street","address2":null,"city":"Tuscaloosa","state":"AL","postcode":"35401","country":"US"}},"_links":{"self":{"href":"\/v2\/animals\/49235874"},"type":{"href":"\/v2\/types\/dog"},"organization":{"href":"\/v2\/organizations\/al52"}}},{"id":49235693,"organization_id":"TX2377","url":"https:\/\/www.petfinder.com\/dog\/krueger-49235693\/tx\/denison\/texoma-dog-ranch-tx2377\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc","type":"Dog","species":"Dog","breeds":{"primary":"German Shepherd Dog","secondary":"Catahoula Leopard Dog","mixed":true,"unknown":false},"colors":{"primary":"Tricolor (Brown, Black, \u0026 White)","secondary":null,"tertiary":null},"age":"Baby","gender":"Male","size":"Medium","coat":"Medium","attributes":{"spayed_neutered":false,"house_trained":false,"declawed":null,"special_needs":false,"shots_current":true},"environment":{"children":true,"dogs":true,"cats":true},"tags":[],"name":"Krueger","description":"Smart, playful and not very vocal.","organization_animal_id":null,"photos":[{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=100","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=300","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801"},{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/2\/?bust=1601148811\u0026width=100","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/2\/?bust=1601148811\u0026width=300","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/2\/?bust=1601148811\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/2\/?bust=1601148811"},{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/3\/?bust=1601148829\u0026width=100","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/3\/?bust=1601148829\u0026width=300","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/3\/?bust=1601148829\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/3\/?bust=1601148829"},{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/4\/?bust=1601148840\u0026width=100","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/4\/?bust=1601148840\u0026width=300","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/4\/?bust=1601148840\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/4\/?bust=1601148840"}],"primary_photo_cropped":{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=300","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=450","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235693\/1\/?bust=1601148801"},"videos":[{"embed":"\u003Ciframe title=\u0022Video\u0022 frameborder=\u00220\u0022 allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen name=\u0022vidly-frame\u0022 src=\u0022https:\/\/s.vid.ly\/embeded.html?link=q1s2i4\u0026autoplay=false\u0022\u003E\u003Ca target=\u0022_blank\u0022 href=\u0022https:\/\/vid.ly\/q1s2i4\u0022\u003E\u003Cimg src=\u0022https:\/\/cf.cdn.vid.ly\/q1s2i4\/poster.jpg\u0022 \/\u003E\u003C\/a\u003E\u003C\/iframe\u003E"}],"status":"adoptable","status_changed_at":"2020-09-26T19: 44: 28+0000","published_at":"2020-09-26T19: 44: 28+0000","distance":null,"contact":{"email":"Texomadogranch@gmail.com","phone":null,"address":{"address1":null,"address2":null,"city":"Denison","state":"TX","postcode":"75021","country":"US"}},"_links":{"self":{"href":"\/v2\/animals\/49235693"},"type":{"href":"\/v2\/types\/dog"},"organization":{"href":"\/v2\/organizations\/tx2377"}}},{"id":49235834,"organization_id":"NC1133","url":"https:\/\/www.petfinder.com\/dog\/maddie-49235834\/nc\/gastonia\/animal-league-of-gaston-county-dba-the-gaston-low-cost-spay-neuter-clinic-nc1133\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc","type":"Dog","species":"Dog","breeds":{"primary":"Labrador Retriever","secondary":null,"mixed":false,"unknown":false},"colors":{"primary":"Black","secondary":null,"tertiary":null},"age":"Adult","gender":"Female","size":"Medium","coat":"Short","attributes":{"spayed_neutered":true,"house_trained":true,"declawed":null,"special_needs":false,"shots_current":true},"environment":{"children":true,"dogs":true,"cats":null},"tags":[],"name":"Maddie","description":"Maddie is a 7 year old lab who is as sweet as she can be.  She loves other dogs, children,...","organization_animal_id":null,"photos":[{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/?bust=1601149209\u0026width=100","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/?bust=1601149209\u0026width=300","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/?bust=1601149209\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/?bust=1601149209"}],"primary_photo_cropped":{"small":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/crop\/?bust=1601149209\u0026width=300","medium":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/crop\/?bust=1601149209\u0026width=450","large":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/crop\/?bust=1601149209\u0026width=600","full":"https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/49235834\/1\/crop\/?bust=1601149209"},"videos":[],"status":"adoptable","status_changed_at":"2020-09-26T19: 43: 25+0000","published_at":"2020-09-26T19: 43: 25+0000","distance":null,"contact":{"email":"NEFoltz@yahoo.com","phone":"(704) 616-4904","address":{"address1":null,"address2":null,"city":"Gastonia","state":"NC","postcode":"28052","country":"US"}},"_links":{"self":{"href":"\/v2\/animals\/49235834"},"type":{"href":"\/v2\/types\/dog"},"organization":{"href":"\/v2\/organizations\/nc1133"}}},{"id":49235856,"organization_id":"IL110","url":"https:\/\/www.petfinder.com\/dog\/cooper-49235856\/il\/sparta\/randolph-county-humane-society-il110\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc","type":"Dog","species":"Dog","breeds":{"primary":"Lancashire Heeler","secondary":"Great Pyrenees","mixed":true,"unknown":false},"colors":{"primary":null,"secondary":null,"tertiary":null},"age":"Young","gender":"Male","size":"Medium","coat":null,"attributes":{"spayed_neutered":false,"house_trained":false,"declawed":null,"special_needs":false,"shots_current":false},"environment":{"children":null,"dogs":null,"cats":null},"tags":[],"name":"Cooper","description":"You can fill out an adoption application online on our official website.\nI want A \u0026amp;#34;FUR\u0026amp;#34;ever\u0026amp;#34; HOME!\n\nRead the FULL...","organization_animal_id":"15919393","photos":[],"primary_photo_cropped":null,"videos":[],"status":"adoptable","status_changed_at":"2020-09-26T19: 42: 17+0000","published_at":"2020-09-26T19: 42: 17+0000","distance":null,"contact":{"email":"evansmichelle75@yahoo.com","phone":"(618) 443-3363","address":{"address1":"414 W. Belmont St.","address2":"P.O Box 59","city":"Sparta","state":"IL","postcode":"62286","country":"US"}},"_links":{"self":{"href":"\/v2\/animals\/49235856"},"type":{"href":"\/v2\/types\/dog"},"organization":{"href":"\/v2\/organizations\/il110"}}},{"id":49235852,"organization_id":"IN353","url":"https:\/\/www.petfinder.com\/dog\/dodger-49235852\/in\/greenfield\/partners-for-animal-welfare-society-inc-in353\/?referrer_id=e6503da0-6549-463b-aa30-7ebb823e19fc","type":"Dog","species":"Dog","breeds":{"primary":"Chihuahua","secondary":null,"mixed":false,"unknown":false},"colors":{"primary":null,"secondary":null,"tertiary":null},"age":"Adult","gender":"Male","size":"Small","coat":null,"attributes":{"spayed_neutered":true,"house_trained":true,"declawed":null,"special_needs":false,"shots_current":true},"environment":{"children":null,"dogs":true,"cats":null},"tags":[],"name":"Dodger","description":"You can fill out an adoption application online on our official website.","organization_animal_id":"16091187-20k060","photos":[],"primary_photo_cropped":null,"videos":[],"status":"adoptable","status_changed_at":"2020-09-26T19: 41: 22+0000","published_at":"2020-09-26T19: 41: 22+0000","distance":null,"contact":{"email":"pawshancock1@gmail.com","phone":"(317) 318-9483","address":{"address1":"3141 West US 40","address2":"Schakel Center","city":"Greenfield","state":"IN","postcode":"46140","country":"US"}},"_links":{"self":{"href":"\/v2\/animals\/49235852"},"type":{"href":"\/v2\/types\/dog"},"organization":{"href":"\/v2\/organizations\/in353"}}}],"pagination":{"count_per_page":20,"total_count":61252,"current_page":1,"total_pages":3063,"_links":{"next":{"href":"\/v2\/animals?status=adoptable\u0026type=dog\u0026page=2"}}}}

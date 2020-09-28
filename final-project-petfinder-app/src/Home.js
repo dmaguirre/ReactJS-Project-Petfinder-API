@@ -8,7 +8,9 @@ export default function Home() {
             <Header />
         </header>
         <main className="main">
-            HOME PAGE
+            <div>
+            <img src={require('./bowandmeowcover.gif')} alt="Loading Homepage..." />
+            </div>
         </main>    
     </div>
     )

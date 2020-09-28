@@ -1,18 +1,25 @@
-import React from 'react'
+import axios from 'axios';
+import petData from './sampleJSON';
 
-export default function GetData() {
+  export const getDataFromAPI = async (accessToken) => {
 
-    const getDataFromAPI = () => {
-        
+            if (accessToken === null) {
+                console.log("Token is null");
+            } else {
+                    const petFinderRequest = await axios.get(
+                        "https://api.petfinder.com/v2/animals",
+                        {
+                            headers: {
+                                Authorization: `Bearer ${accessToken}`
+                            }
+                        });
+                    return petFinderRequest.data;    
+                    //console.log(petFinderRequest.data); 
+
     }
-
-    const getDataFromFile = () => {
-
-    }
-
-    return (
-        <div>
-            
-        </div>
-    )
 }
+
+  export const getDataFromFile = async (acessToken) => {
+      const filteredPetData = petData.filter(petData.animals.type.includes("dog"));
+            return filteredPetData;
+    }
